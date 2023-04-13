@@ -4,7 +4,6 @@
 * HTML
 * CSS
 * JavaScript
-* 
 -------------------
 #### and includes: ####
 * Welcome animation
